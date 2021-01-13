@@ -1,2 +1,2 @@
-# datasciencecoursera
+# coursera
 Assignment repository
